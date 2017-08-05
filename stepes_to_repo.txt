@@ -1,0 +1,24 @@
+Steps to 1) create a local repo 2) create remote repo on github 3) push local to remote
+
+1) 
+i. get on console
+ii. cd to desired directory
+iii. mkdir new folder
+iv. touch new files
+v. edit files
+vi. save files
+viii. git init
+ix. git add .
+
+2)
+i. go to github.com
+ii. sign in
+iii. create repo on website
+
+3)
+i. git commit -m "message"
+ii. git remote add origin "https://github.com/username/my_repo.git
+iii. git push -u origin master
+iv. enter username and password
+
+   
